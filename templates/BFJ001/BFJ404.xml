@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="GBK"?>
+<Result>
+    <ThirdVoucher>BFJ40420180131001</ThirdVoucher><!-- 转账凭证号 -->
+    <CstInnerFlowNo>BFJ40420180131001</CstInnerFlowNo><!-- 客户自定义凭证号 -->
+    <CcyCode>RMB</CcyCode><!-- 货币类型 -->
+   <OutAcctNo>11003610835605</OutAcctNo><!-- 备付金账户 扣款账户 -->
+   <BFJBizType>1</BFJBizType><!--备付金业务类型 1-	网络支付；2-	银行卡收单；3-	预付卡发行与受理；4-	其他 -->
+   <BFJTranType>4</BFJTranType><!-- 备付金转账类型 1、对外付款 2、利息结转 3、手续费结转 4、头寸调拨-->
+   <OutAcctName>深圳市深银联易办事金融服务有限公司客户备付金</OutAcctName><!-- 付款账户户名 -->
+   <InAcctNo>44201517600052540329</InAcctNo><!--收款人账户  -->
+   <InAcctName>深圳市深银联易办事金融服务有限公司客户备付金</InAcctName><!-- 收款人账户户名 -->
+   <InAcctBankName>建设银行深圳东湖支行</InAcctBankName><!--收款人开户行名称  -->
+   <TranAmount>1.00</TranAmount><!-- 转出金额 -->
+   <UnionFlag>0</UnionFlag><!--行内跨行标志 1：行内转账，0：跨行转账  -->
+   <SysFlag>N</SysFlag><!--转账加急标志  -->
+   <AddrFlag>1</AddrFlag><!--同城/异地标志 “1”—同城   “2”—异地  -->
+</Result>

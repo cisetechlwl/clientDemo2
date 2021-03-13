@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="GBK"?>
+<Result>
+    <ThirdVoucher>ZXL4004B2C20180305TV0002</ThirdVoucher><!-- 转账凭证号 -->
+    <CcyCode>RMB</CcyCode><!-- 货币类型 -->
+    <OutAcctNo>11002923034501</OutAcctNo><!-- 付款人账户 -->
+    <OutAcctName>平安测试六零零零三三八二八五九八</OutAcctName><!-- 付款人名称 -->
+    <OutAcctAddr>平安银行深圳桂园支行</OutAcctAddr><!-- 付款人地址，支行 -->
+    <InAcctNo>11014584071006</InAcctNo><!-- 收款人账户 -->
+    <InAcctName>平安测试六零零零四六三六七五八五</InAcctName><!-- 收款人账户户名 -->
+    <InAcctBankName>平安银行</InAcctBankName><!-- 收款人开户行名称 -->
+    <InAcctBankNode/>
+    <TranAmount>2</TranAmount><!-- 转出金额 -->
+    <AmountCode /><!--  -->
+    <UseEx>行内B2C转账测试</UseEx><!-- 资金用途 -->
+    <UnionFlag>1</UnionFlag><!-- 行内跨行标志 1：行内转账，0：跨行转账 -->
+    <SysFlag>N</SysFlag><!-- 转账加急标志 -->
+    <AddrFlag>N</AddrFlag><!-- 同城/异地标志 -->
+    <MainAcctNo /><!-- 付款虚子账户 -->
+</Result>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="GBK"?>
+<Result>
+    <BatchNo>20180306001</BatchNo>
+    <AcctNo>11014609385000</AcctNo>
+    <BusiType>00000</BusiType>
+    <CorpId>E000091390</CorpId>
+    <TotalNum>2</TotalNum>
+    <TotalAmount>32.00</TotalAmount>
+    <FileName>KHKF_11016621286000_1002.txt</FileName>
+    <RandomPwd>nAyzQP2dyX3uHdD7DyLBq1ChTtqFv+sm</RandomPwd>
+    <HashData></HashData><!-- 文件摘要 -->
+    <SignData></SignData><!-- 签名值 -->
+    <Remark></Remark><!-- 批次备注 -->
+</Result>

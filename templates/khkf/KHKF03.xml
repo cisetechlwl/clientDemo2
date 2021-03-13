@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="GBK"?>
+<Result>
+    <OrderNumber>ZXLKF0320190424T001</OrderNumber><!-- 订单号 -->
+    <AcctNo>15000090253776</AcctNo><!--企业签约帐号  -->
+    <BusiType>00000</BusiType><!-- 费项代码 -->
+    <CorpId>Q000201201</CorpId><!-- 单位代码 -->
+    <CcyCode>RMB</CcyCode><!-- 币种 -->
+    <TranAmount>1.0</TranAmount><!-- 金额 -->
+    <InAcctNo>6230580000054508325</InAcctNo><!-- 收款卡号 -->
+    <InAcctName>平安测试七八八零六</InAcctName><!--收款户名  -->
+    <InAcctBankName>平安银行</InAcctBankName><!-- 收款方银行名称 -->
+    <InAcctBankNode></InAcctBankNode><!-- 收款方联行号 -->
+    <InAcctProvinceName></InAcctProvinceName><!-- 收款方开户行省份 -->
+    <InAcctCityName></InAcctCityName><!-- 收款方开户行城市 -->
+    <Mobile>13603983426</Mobile><!-- 收款方手机号 -->
+    <Remark>单笔测试</Remark><!-- 用途/备注 -->
+</Result>

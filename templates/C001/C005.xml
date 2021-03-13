@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="GBK"?>
+<Result>
+    <ThirdVoucher>ZXLC005yyyyMMddTV001</ThirdVoucher>
+    <CstInnerFlowNo>ZXLC005yyyyMMddCIF01</CstInnerFlowNo>
+    <MainAccount>11014718919009</MainAccount>
+    <MainAccountName>平安测试六零零零五三六四三九一零</MainAccountName>
+    <CcyCode>RMB</CcyCode>
+    <OutSubAccount>30200804800002</OutSubAccount>
+    <OutSubAccountName>平安测试三二五零八</OutSubAccountName>
+    <TranAmount>1.0</TranAmount>
+    <InSubAccNo>30200804800001</InSubAccNo>
+    <InSubAccName>平安测试三二五零八</InSubAccName>
+    <UseEx>支付</UseEx>
+</Result>

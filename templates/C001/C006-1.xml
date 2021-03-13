@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="GBK"?>
+<Result>
+    <OpFlag>1</OpFlag>
+    <MainAccount>11014718919009</MainAccount>
+    <ReqSubAccount>30200804186001</ReqSubAccount>
+    <CcyCode>RMB</CcyCode>
+    <StartDate>20180321</StartDate>
+    <EndDate>20180321</EndDate>
+    <ReqLastSubAccNo>0</ReqLastSubAccNo>
+    <ReqLastDate>0</ReqLastDate>
+    <ReqLastJNo>0</ReqLastJNo>
+    <ReqLastSeq>0</ReqLastSeq>
+    <PageSize>100</PageSize>
+</Result>
